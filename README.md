@@ -2,7 +2,7 @@
 
 I'm a software engineer jr. (Engineer Generation) at SumUp.
 - 🌱 I’m currently learning Javascript, Typescript and Go.
-- 🔭 I’m currently working on Front-end
+- 🔭 I’m currently working on Back-end
 
 
 <div align="center">
