@@ -4,14 +4,6 @@ I'm a software engineer jr. (Engineer Generation) at SumUp.
 - 🌱 I’m currently learning Javascript, Typescript and Go.
 - 🔭 I’m currently working on Back-end
 
-
-<div align="center">
-  <a href="https://github.com/nataliahisf">
-
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliahisf&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  <div style="display: inline_block"><br>
- </div>
     
   ##
 <div>
